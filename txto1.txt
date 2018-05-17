@@ -5,3 +5,4 @@ new build para jenkins 5
 new build para jenkins 6
 new build para jenkins 6
 new build para jenkins 7
+new build para jenkins 8
